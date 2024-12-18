@@ -1,0 +1,27 @@
+.model-name   {
+   font-family: Montserrat ;
+   font-weight: bold;
+   font-size: 50px;
+     color: #0c0404;
+   line-height: 20px;
+    margin-left: 50px;
+    
+    width: 288px; 
+    
+
+}
+.order-des {
+  font-family: Montserrat ;
+ 
+   font-size: 15px;
+     color: #0c0404;
+   line-height: 20px;
+   margin-left: 10px;
+    width: 288px; 
+   
+
+}
+.span-link {
+  text-decoration:underline ;
+
+}
